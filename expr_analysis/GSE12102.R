@@ -1,3 +1,5 @@
+#code was derived from the code developed in Atul Butte's lab
+#author: Bin Chen (date: 2015)
 #this code is to generate ews resistant signature
 #samr and rankprod are used (or maybe bayesian)
 #probe annotation can be downloaded from AILLUN or from GEO website

@@ -1,4 +1,7 @@
-#infection vs surival
+#Author: Bin Chen (2015)
+#Input a list of genes and a given cancer, compute their association with survival.
+#user can change gene symbol, cancer name or molecular type.
+
 library(cgdsr)
 library(survival)
 library(survminer)

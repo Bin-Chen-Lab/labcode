@@ -1,3 +1,7 @@
+#Author: Bin Chen (2015)
+#the code was modified from Purvesh Khatri's code
+#give two groups of data, compute their difference and visualize using boxplot
+
 createGGPlot <- function(currPheno, measureVar, groupVars, main="GGPLot", ylab="pass ylab value", xlab="pass xlab value", alternative="less") {
   library("ggplot2")
   currPheno$group = as.factor(currPheno$group)
